@@ -30,6 +30,10 @@ The CAD development includes wing components, structural elements, and their ass
 ## 5. CAD Modelling – SolidWorks
 
  <img width="658" height="436" alt="image" src="https://github.com/user-attachments/assets/df33a167-1d39-43bd-a40a-579bc9e4eb59" />
+ 
+   <img width="575" height="684" alt="image" src="https://github.com/user-attachments/assets/a74c034a-919d-4ec3-8063-c9982d985e5c" />
+   
+  <img width="626" height="894" alt="image" src="https://github.com/user-attachments/assets/22be92b0-6ef4-40b2-976d-6ba971c3b1e3" />
 
 
 SolidWorks is used for:
@@ -61,9 +65,9 @@ The project involved CAD modelling and design exploration of a bird-inspired mor
 
 - SolidWorks – 3D CAD modelling and assembly.
 - Engineering design and mechanical analysis concepts.
-  <img width="575" height="684" alt="image" src="https://github.com/user-attachments/assets/a74c034a-919d-4ec3-8063-c9982d985e5c" />
-  <img width="626" height="894" alt="image" src="https://github.com/user-attachments/assets/22be92b0-6ef4-40b2-976d-6ba971c3b1e3" />
-  <img width="641" height="343" alt="image" src="https://github.com/user-attachments/assets/52442615-16c1-4cce-9635-1db59bf1eb13" /> <img width="673" height="347" alt="image" src="https://github.com/user-attachments/assets/a6ae91b7-21a8-4197-898e-47c5c93dd307" />
+
+  <img width="641" height="343" alt="image" src="https://github.com/user-attachments/assets/52442615-16c1-4cce-9635-1db59bf1eb13" />
+  <img width="673" height="347" alt="image" src="https://github.com/user-attachments/assets/a6ae91b7-21a8-4197-898e-47c5c93dd307" />
   <img width="755" height="343" alt="image" src="https://github.com/user-attachments/assets/28475949-ba44-4291-8af3-2e96befa10da" />
   <img width="773" height="393" alt="image" src="https://github.com/user-attachments/assets/cf67b89f-5500-4b16-832a-83770222de6d" />
   <img width="700" height="396" alt="image" src="https://github.com/user-attachments/assets/365f35a3-f632-44df-b934-4b00d81d43df" />
